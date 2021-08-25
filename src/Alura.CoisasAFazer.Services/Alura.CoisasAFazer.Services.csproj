@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Alura.CoisasAFazer.Core\Alura.CoisasAFazer.Core.csproj" />
+    <ProjectReference Include="..\Alura.CoisasAFazer.Infrastructure\Alura.CoisasAFazer.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
